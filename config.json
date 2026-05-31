@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorfecrypt",
+        "uuid": 4084152,
+        "checksum": "9ek4q"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
